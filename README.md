@@ -1,3 +1,6 @@
-# scrapshut
-## DATA INPUT FILE === myform.html
-## DATA OUTPUT FILE === fetch.html
+# Scrapshut
+
+A simple crud app in django
+
+
+
